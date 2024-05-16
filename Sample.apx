@@ -5,4 +5,9 @@ public class Myclass{
     Integer res = a+b;
     system.debug(res);
 }
+ public void getSub(){
+    Integer p = 23;
+    Integer q = 34;
+    Integer result = p-q;
+    system.debug(result);
 }
